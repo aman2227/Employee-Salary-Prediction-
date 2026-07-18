@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 scikit-learn
-GradientBoostingRegressor
 joblib
 matplotlib 
 seaborn
